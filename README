@@ -1,4 +1,4 @@
 This is a school project I made for my Systems Programming class. It uses exclusively C.
 
 DESCRIPTION:
-Te game is to guess the number that the program randomly generates. By default, the number ranges form 1 to 10, but you can change the number in the program. When the user exits the program, it gives a summary of the user's win/loss ratio for that session.
+Te game is to guess the number that the program randomly generates. By default, the number ranges form 1 to 10, but you can change the number in the program. When the user exits the program, it gives a summary of the user's win/loss ratio for that session. The program will also save your number range preference in a file if it differs from the default. If the file already exists, it will edit the existing file instead.
